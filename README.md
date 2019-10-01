@@ -1,2 +1,1 @@
-# jupyter_notebookМаркин, Илья, 7З, хорошое начало учебного года, футбол 
-
+# jupyter_notebook
